@@ -1,12 +1,10 @@
 ### Sobre mi 👋
 
 Soy Angel Maria Martinez y me apasiona el mundo de la programación.   
-Actualmente me estoy formando en tres frentes: Java con Spring Boot y Angular, Inteligencia Artificial y en Escuela 42
+Actualmente me estoy formando en tres frentes: 1. Java con Spring Boot y Angular, 2. Inteligencia Artificial, 3. Escuela 42
 
 ### 🔧 Trabajos recientes
-Acabamos de terminar la primera fase de un ambicioso proyecto educativo en el que hemos usado **Java** para el back y **Angular** para el front. Adjunto varios lenguajes en los que he tenido el privilegio de utilizar para el desarrollo de esta aplicación: 
-
-angularjs logo  bootstrap logo  c logo  canva logo  git logo  github logo  html5 logo  java logo  javascript logo  linkedin logo  mysql logo  nodejs logo  python logo  spring logo  slack logo  trello logo  typescript logo  vscode logo
+Acabamos de terminar la primera fase de un ambicioso proyecto educativo en el que hemos usado **Java** para el back y **Angular** para el front. En cuanto esté listo su desarrollo en la nuebe lo anunciaré. 
             
 
       
