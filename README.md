@@ -4,7 +4,9 @@
 
 Farmacéutico de profesión, en el 2023 decido reinventarme y adentrarme en el apasionante mundo de la programación. 
 
-Habilidades: HTML / CSS / PHP / JAVA / C / JavaScript / Angular / Python
+## Habilidades
+
+🖥️ HTML /  CSS / PHP / JAVA / C / JavaScript / Angular / Python
 
 - 🔭 Estoy trabajando en Implantación en la nube de una aplicación educativa 
 
