@@ -1,11 +1,15 @@
-### Sobre mi 👋
+### Hola 👋, soy Angel Maria Martinez
+#### Desarrollador FullStack
+![Desarrollador FullStack](https://media.licdn.com/dms/image/C4D16AQH2VrjCsLV7tQ/profile-displaybackgroundimage-shrink_350_1400/0/1516839931172?e=1721260800&v=beta&t=hYsWQVSvuic0I7zVy-CYRl99CbifhAN9DffjodP5DJ4)
 
-Soy Angel Maria Martinez y me apasiona el mundo de la programación.   
-Actualmente me estoy formando en tres frentes: 1. Java con Spring Boot y Angular, 2. Inteligencia Artificial, 3. Escuela 42
+Farmacéutico de profesión, en el 2023 decido reinventarme y adentrarme en el apasionante mundo de la programación. 
 
-### 🔧 Trabajos recientes
-Acabamos de terminar la primera fase de un ambicioso proyecto educativo en el que hemos usado **Java** para el back y **Angular** para el front. En cuanto esté listo su desarrollo en la nuebe lo anunciaré. 
-            
+Habilidades: HTML / CSS / PHP / JAVA / C / JavaScript / Angular / Python
+
+- 🔭 Estoy trabajando en Implantación en la nube de una aplicación educativa 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/angelmaria)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angelmariamartinez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/angelmaria75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.martalweb.com)  
 
       
 
