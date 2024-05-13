@@ -1,4 +1,4 @@
-![Desarrollador FullStack](https://github.com/angelmaria/angelmaria/blob/main/AM_banner_bg.png)
+![Desarrollador FullStack](https://github.com/angelmaria/angelmaria/blob/main/AM_banner_bg3.png)
 ### Hola 👋, soy Angel Maria Martinez
 #### Desarrollador FullStack
 
