@@ -1,6 +1,6 @@
+![Desarrollador FullStack](https://github.com/angelmaria/angelmaria/blob/main/AM_banner_bg.png)
 ### Hola 👋, soy Angel Maria Martinez
 #### Desarrollador FullStack
-![Desarrollador FullStack](https://media.licdn.com/dms/image/C4D16AQH2VrjCsLV7tQ/profile-displaybackgroundimage-shrink_350_1400/0/1516839931172?e=1721260800&v=beta&t=hYsWQVSvuic0I7zVy-CYRl99CbifhAN9DffjodP5DJ4)
 
 Farmacéutico de profesión, en el 2023 decido reinventarme y adentrarme en el apasionante mundo de la programación. 
 
