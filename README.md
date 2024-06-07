@@ -10,8 +10,17 @@ Farmacéutico de profesión, en el 2023 decido reinventarme y adentrarme en el a
 
 - 🔭 Estoy trabajando en Implantación en la nube de una aplicación educativa 
 
+## 📫 Cómo contactarme
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/angelmaria)  
+- **Correo**: [angelmaria75@gmail.com](mailto:tu.angelmaria75@gmail.com)
+- **LinkedIn**: [Tu Nombre]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/angelmariamartinez/))
+- **Codepen**: [@tu_usuario](https://twitter.com/tu_usuario)
+-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/angelmaria) **Web**: [@tu_usuario](https://www.martalweb.com)
+- **Github**: [@tu_usuario](https://www.martalweb.com)
+
+¡Gracias por visitar mi perfil!
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/angelmaria)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angelmariamartinez/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/angelmaria75)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.martalweb.com)  
