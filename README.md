@@ -12,7 +12,7 @@ Farmacéutico de profesión, en el 2023 decido reinventarme y adentrarme en el a
 
 ## 📫 Cómo contactarme
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'><path fill="#D14836" d="M50 5c24.3 0 44 19.7 44 44s-19.7 44-44 44S6 73.3 6 49 25.7 5 50 5m0-5C22.4 0 0 22.4 0 50s22.4 50 50 50 50-22.4 50-50S77.6 0 50 0z"/>](mailto:angelmaria75@gmail.com) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](mailto:angelmaria75@gmail.com) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' target='_blank' alt='github' height='40'>](https://github.com/angelmaria) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angelmariamartinez/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/angelmaria75) 
