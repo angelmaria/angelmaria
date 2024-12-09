@@ -2,7 +2,7 @@
 ### Hola 👋, soy Angel Maria Martinez
 #### Desarrollador FullStack
 
-Farmacéutico de profesión, en el 2023 decido reinventarme y adentrarme en el apasionante mundo de la programación. 
+Farmacéutico, Desarrollador y Consultor en Inteligencia Artificial, Full Stack Software Developer
 
 ## Habilidades
 
