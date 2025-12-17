@@ -1,4 +1,4 @@
-<img width="3168" height="1344" alt="AM_banner" src="https://github.com/user-attachments/assets/336144b7-d5cb-47f4-8e1b-5abba7c81e70" />
+<img width="2752" height="1536" alt="AM_banner" src="https://github.com/user-attachments/assets/af511ca4-8cb3-439e-87c7-098fb0b960e4" />
 
 ### Hola 👋, soy Angel Maria Martinez
 #### Desarrollador FullStack
