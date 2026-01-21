@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>🧬 Angel Maria Martinez 💻</h1>
+  <h1>🧬 Angel Martinez 💻</h1>
   <h3>Consultor de Inteligencia Artificial | Farmacéutico | Full Stack Developer</h3>
   
   <p>
