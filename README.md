@@ -78,14 +78,14 @@ Aunque gran parte de mi trabajo reciente en **Consultoría y Gestión Farmacéut
 | **Asesor Gestión** | Python, Data | Algoritmos para cálculo de días de cobertura, stock sobrante y puntos de pedido óptimos. |
 | **Venta Inducida** | IA / Recomendación | Motor de recomendación de productos basado en efectos secundarios de medicamentos y en el tratamiento de síntomas menores. |
 | **Farma-Idealista** | Web | Plataforma vertical para el sector inmobiliario farmacéutico. |
---!>
+-->
 
 #### 🔓 Proyectos Open Source / Públicos
 | Repositorio | Descripción |
 | :--- | :--- |
 <!--
 | [**OCR_Rx**](https://github.com/angelmaria/OCR_Rx) | 👁️ **Computer Vision**. Sistema OCR entrenado para reconocer y digitalizar recetas médicas manuscritas. |
---!>
+-->
 | [**Machine Learning CNN**](https://github.com/angelmaria/machine_learning_CNN) | 🩻 **Diagnóstico AI**. Red Neuronal Convolucional para clasificación de imágenes médicas y predicción de datos de salud. |
 | [**InspiraBot**](https://github.com/angelmaria/InspiraBot) | 🤖 **GenAI**. Herramienta de generación de contenido digital automatizado. |
 | [**Data Science Ictus**](https://github.com/angelmaria/data_science_project) | 🧠 **Predictive Health**. Modelo de ML para predecir la probabilidad de sufrir un ictus en pacientes. |
