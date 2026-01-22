@@ -5,7 +5,7 @@
 <div align="center">
   <h1>🧬 Angel Martinez 💻</h1>
   <h3>Consultor de Inteligencia Artificial | Farmacéutico | Full Stack Developer</h3>
-  
+   
   <p>
     <em>"Transformando el sector sanitario a través del código y la Inteligencia Artificial."</em>
   </p>
@@ -70,32 +70,4 @@ Utilizo herramientas modernas para crear soluciones robustas y escalables.
 
 Aunque gran parte de mi trabajo reciente en **Consultoría y Gestión Farmacéutica** es privado por sensibilidad de datos (HIPAA/GDPR), aquí destaco mis desarrollos clave:
 
-#### 🔐 Proyectos Privados / En Producción
-| Proyecto | Tecnología | Descripción |
-| :--- | :--- | :--- |
-| **Pharmalyze** | Python, Django | Sistema Inteligente de Gestión Farmacéutica para optimización de stocks y pedidos. |
-``| **Asesor Gestión** | Python, Data | Algoritmos para cálculo de días de cobertura, stock sobrante y puntos de pedido óptimos. |
-| **Venta Inducida** | IA / Recomendación | Motor de recomendación de productos basado en efectos secundarios de medicamentos y en el tratamiento de síntomas menores. |
-| **Farma-Idealista** | Web | Plataforma vertical para el sector inmobiliario farmacéutico. |``
-
-#### 🔓 Proyectos Open Source / Públicos
-| Repositorio | Descripción |
-| :--- | :--- |
-| [**OCR_Rx**](https://github.com/angelmaria/OCR_Rx) | 👁️ **Computer Vision**. Sistema OCR entrenado para reconocer y digitalizar recetas médicas manuscritas. |
-| [**Machine Learning CNN**](https://github.com/angelmaria/machine_learning_CNN) | 🩻 **Diagnóstico AI**. Red Neuronal Convolucional para clasificación de imágenes médicas y predicción de datos de salud. |
-| [**InspiraBot**](https://github.com/angelmaria/InspiraBot) | 🤖 **GenAI**. Herramienta de generación de contenido digital automatizado. |
-| [**Data Science Ictus**](https://github.com/angelmaria/data_science_project) | 🧠 **Predictive Health**. Modelo de ML para predecir la probabilidad de sufrir un ictus en pacientes. |
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelmaria&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Angel Maria Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelmaria&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
- <img src="https://komarev.com/ghpvc/?username=angelmaria&label=Visitas+al+perfil&color=blue&style=flat" alt="Profile views" />
-</div>
+#### 🔐 Proyectos Priv
