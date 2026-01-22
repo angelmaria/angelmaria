@@ -74,9 +74,9 @@ Aunque gran parte de mi trabajo reciente en **Consultoría y Gestión Farmacéut
 | Proyecto | Tecnología | Descripción |
 | :--- | :--- | :--- |
 | **Pharmalyze** | Python, Django | Sistema Inteligente de Gestión Farmacéutica para optimización de stocks y pedidos. |
-| **Asesor Gestión** | Python, Data | Algoritmos para cálculo de días de cobertura, stock sobrante y puntos de pedido óptimos. |
+``| **Asesor Gestión** | Python, Data | Algoritmos para cálculo de días de cobertura, stock sobrante y puntos de pedido óptimos. |
 | **Venta Inducida** | IA / Recomendación | Motor de recomendación de productos basado en efectos secundarios de medicamentos y en el tratamiento de síntomas menores. |
-| **Farma-Idealista** | Web | Plataforma vertical para el sector inmobiliario farmacéutico. |
+| **Farma-Idealista** | Web | Plataforma vertical para el sector inmobiliario farmacéutico. |``
 
 #### 🔓 Proyectos Open Source / Públicos
 | Repositorio | Descripción |
