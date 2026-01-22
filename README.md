@@ -83,13 +83,12 @@ Aunque gran parte de mi trabajo reciente en **Consultoría y Gestión Farmacéut
 #### 🔓 Proyectos Open Source / Públicos
 | Repositorio | Descripción |
 | :--- | :--- |
-<!--
-| [**OCR_Rx**](https://github.com/angelmaria/OCR_Rx) | 👁️ **Computer Vision**. Sistema OCR entrenado para reconocer y digitalizar recetas médicas manuscritas. |
--->
 | [**Machine Learning CNN**](https://github.com/angelmaria/machine_learning_CNN) | 🩻 **Diagnóstico AI**. Red Neuronal Convolucional para clasificación de imágenes médicas y predicción de datos de salud. |
 | [**InspiraBot**](https://github.com/angelmaria/InspiraBot) | 🤖 **GenAI**. Herramienta de generación de contenido digital automatizado. |
 | [**Data Science Ictus**](https://github.com/angelmaria/data_science_project) | 🧠 **Predictive Health**. Modelo de ML para predecir la probabilidad de sufrir un ictus en pacientes. |
-
+<!--
+| [**OCR_Rx**](https://github.com/angelmaria/OCR_Rx) | 👁️ **Computer Vision**. Sistema OCR entrenado para reconocer y digitalizar recetas médicas manuscritas. |
+-->
 ---
 
 ### 📊 Estadísticas de GitHub
